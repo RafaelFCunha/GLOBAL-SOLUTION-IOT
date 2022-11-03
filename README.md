@@ -29,8 +29,9 @@ RM: 88687
 O projeto visa simular um estacionamento de carros, onde temos dois led(vermelho e verde) indicando se a vaga está preenchida ou não.
 Você pode testar o circuito acima acessando o link abaixo:
 
-- Link:
-https://www.tinkercad.com/things/1TAHsQXuJyV-copy-of-ultrasonic-sensor-with-led/editel?tenant=circuits
+## Links:
+
+[Link para o tinkercad](https://www.tinkercad.com/things/1TAHsQXuJyV-copy-of-ultrasonic-sensor-with-led/editel?tenant=circuits)
 
 [Link para o video youtube](https://www.youtube.com/watch?v=X9wsRTuFe14)
 
