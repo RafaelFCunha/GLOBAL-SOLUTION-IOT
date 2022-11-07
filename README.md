@@ -35,6 +35,17 @@ Você pode testar o circuito acima acessando o link abaixo:
 
 [Link para o video youtube](https://www.youtube.com/watch?v=X9wsRTuFe14)
 
+# SEGUNDA ENTREGA - NODE-RED 
+
+![Imgur Image](https://imgur.com/ouihMsr.jpg)
+
+![Imgur Image](https://imgur.com/1bfr43y.jpg)
+
+O projeto visa simular um estacionamento de carros, estamos recebendo inputs(informações) do nosso circuito do arduino para apresentar em um dashboard via MQTT.
+
+## Links:
+
+[Link para o video youtube](https://www.youtube.com/watch?v=NHs0j9F6B7I)
 
 
 
