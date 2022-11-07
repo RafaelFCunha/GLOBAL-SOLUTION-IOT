@@ -1,0 +1,1 @@
+[{"id":"abfbb6b9.75c388","type":"inject","z":"38eb5c23.bf8154","name":"SIMULANDO INPUT ARDUINO","props":[{"p":"payload"}],"repeat":"","crontab":"","once":true,"onceDelay":"0.5","topic":"","payload":"X","payloadType":"str","x":190,"y":380,"wires":[["74eb70c4.576dd","fc75ac0d.3e79e"]]}]
