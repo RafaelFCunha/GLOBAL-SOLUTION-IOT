@@ -6,9 +6,6 @@ Ano: 2022
 
 Integrantes do grupo:
 
-Carlos Daniel Silveira do nascimento				
-RM: 88439
-
 Kevin Aguiar dos Santos		
 RM: 87268
 
